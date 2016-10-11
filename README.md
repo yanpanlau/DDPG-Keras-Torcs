@@ -17,11 +17,12 @@ https://yanpanlau.github.io/2016/10/11/Torcs-Keras.html
 
 # How to Run?
 
+```
 git clone https://github.com/yanpanlau/DDPG-Keras-Torcs.git
 cd DDPG-Keras-Torcs
 cp *.* ~/gym_torcs
 cd ~/gym_torcs
 python ddpg.py 
-
+```
 
 (Change the flag **train_indicator**=1 in ddpg.py if you want to train the network)
