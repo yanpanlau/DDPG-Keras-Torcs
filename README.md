@@ -6,7 +6,9 @@ Please read the following blog for details
 
 https://yanpanlau.github.io/2016/07/11/Torcs-Keras.html
 
+{:refdef: style="text-align: center;"}
 ![](fast.gif)
+{: refdef}
 
 # Installation Dependencies:
 
@@ -17,12 +19,11 @@ https://yanpanlau.github.io/2016/07/11/Torcs-Keras.html
 
 # How to Run?
 
-{% highlight python %}
 git clone https://github.com/yanpanlau/DDPG-Keras-Torcs.git
 cd DDPG-Keras-Torcs
 cp *.* ~/gym_torcs
 cd ~/gym_torcs
 python ddpg.py 
-{% endhighlight %}
+
 
 (Change the flag **train_indicator**=1 in ddpg.py if you want to train the network)
