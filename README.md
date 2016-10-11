@@ -4,11 +4,9 @@
 
 Please read the following blog for details
 
-https://yanpanlau.github.io/2016/07/11/Torcs-Keras.html
+https://yanpanlau.github.io/2016/10/11/Torcs-Keras.html
 
-{:refdef: style="text-align: center;"}
 ![](fast.gif)
-{: refdef}
 
 # Installation Dependencies:
 
