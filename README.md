@@ -11,8 +11,8 @@ https://yanpanlau.github.io/2016/10/11/Torcs-Keras.html
 # Installation Dependencies:
 
 * Python 2.7
-* Keras 1.1.0
-* Tensorflow r0.10
+* Keras 2.1.1
+* Tensorflow r1.21
 * [gym_torcs](https://github.com/ugo-nama-kun/gym_torcs)
 
 # How to Run?
